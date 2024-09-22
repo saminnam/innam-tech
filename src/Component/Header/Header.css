@@ -1,0 +1,40 @@
+.custom-btn
+{
+    border-radius: 30px;
+    font-size: 15px;
+}
+
+.menu-list
+{
+    padding-right: 10px;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: #ffffff; /* Text color on hover */
+    background-color: #0056b3; /* Background color on hover */
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: rgba(255, 255, 255, 0.5);
+    transition: color 0.3s ease-in-out;
+}
+  
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ffffff; /* Change to the desired hover color */
+}
+
+.dropdown-menu .dropdown-item {
+    color: #000;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: #007bff; /* Change to the desired background hover color */
+    color: #fff; /* Change to the desired text hover color */
+}
+
+.btn.custom-btn:hover {
+    background-color: #f0f0f0;
+    color: #007bff;
+    border-color: #007bff;
+}

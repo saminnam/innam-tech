@@ -1,0 +1,11 @@
+.relative
+{
+    position: relative;
+}
+
+.position
+{
+    position: absolute;
+    right: 420px;
+    top: 200px;
+}
